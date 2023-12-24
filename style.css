@@ -1,0 +1,49 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 12 déc. 2023, 13:00:12
+    Author     : 1701805
+*/
+
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+form {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+legend {
+  background-color: #000;
+  color: #fff;
+  padding: 3px 6px;
+}
+
+input {
+  margin: 0.4rem;
+}
+
+/*stagiaires.php*/
+table {
+  max-width: 80%;
+  margin: 10% auto;
+}
+
+.create {
+  max-width: 80%;
+  margin: 2% auto;
+}
+
+/* stagiaire.php*/
+.card {
+  margin: 15% auto;
+}
+
+/*update.php*/
+form {
+  margin: 5% auto;
+}
